@@ -1,0 +1,15 @@
+{
+  "tailwind": {
+    "config": "tailwind.config.js",
+    "css": "src/assets/main.css",
+    "baseColor": "neutral",
+    "cssVariables": true,
+    "prefix": ""
+  },
+  "aliases": {
+    "components": "@/components",
+    "composables": "@/composables",
+    "utils": "@/lib/utils",
+    "lib": "@/lib"
+  }
+}
